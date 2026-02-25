@@ -6,7 +6,7 @@
     text-align: center; 
     padding: 20px;
 ">
-    © 2026 - Bngrc
+    © 2026 - Livraison. All rights reserved. | Designed by Your Company
 </footer>
 
 </body>
